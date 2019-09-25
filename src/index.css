@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Mansalva&display=swap");
+
+body {
+  height: 100%;
+  margin: 0;
+  font-family: "Mansalva", cursive;
+  font-size: 24px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+    to left,
+    rgba(164, 99, 242, 1) 58%,
+    rgba(155, 164, 250, 1) 86%,
+    rgba(150, 204, 255, 1) 100%
+  );
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

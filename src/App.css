@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "Isar CAT Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Isar CAT Regular"), url("IsarCAT.woff") format("woff");
+}
+
+h1 {
+  font-family: "Isar CAT Regular";
+  font-size: 96px;
+  font-weight: 200;
+}
